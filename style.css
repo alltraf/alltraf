@@ -96,12 +96,17 @@ body{
 
 h1{
     font-size: 64px;
-    letter-spacing: -0,25px1;
-    font-family: "Light";
+    letter-spacing: -0,4px;
+    font-family: "Regular";
 }
 
 
+@media only screen and (max-width: 640px){
 
+    h1 {
+        font-size: 26px;
+    }
+}
 
 
 
