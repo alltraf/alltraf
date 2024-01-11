@@ -92,6 +92,7 @@ body{
     justify-content: center;
     height: 100vh;
     width: 100vw;
+    background-color: #FF902F;
 }
 
 h1{
@@ -100,6 +101,9 @@ h1{
     font-family: "Medium";
 }
 
+img{
+    width: 70vw;
+}
 
 @media only screen and (max-width: 640px){
 
